@@ -1,0 +1,14 @@
+﻿# Raw / review files
+00_raw_review/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*
