@@ -149,7 +149,7 @@ MIT App Inventor 기반 BLE 애플리케이션을 이용하여 사용자가 모�
 - 저장 위치 자동 복귀
 
 ▶ [Manual Mode Demo](03_demo/demo-manual-mode-optimized.mp4)
-
+※ GitHub 미리보기 제한으로 인해 영상은 다운로드 후 재생할 수 있습니다.
 ---
 
 ### 2. Automatic Mode
@@ -167,7 +167,7 @@ KOCOAFAB AI CocoCam을 이용하여 사용자의 얼굴과 위치를 인식하�
 - 구동부 자동 제어
 
 ▶ [Automatic Mode Demo](03_demo/demo-auto-mode-optimized.mp4)
-
+※ GitHub 미리보기 제한으로 인해 영상은 다운로드 후 재생할 수 있습니다.
 ---
 
 ## Mechanical Design
